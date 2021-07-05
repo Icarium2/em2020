@@ -1,0 +1,130 @@
+{
+  "ftp://ftp.danielborgstrom.com:21@danielborgstrom.com": {
+    ".DS_Store": {
+      "type": "-",
+      "size": 12292,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".Show.swp": {
+      "type": "-",
+      "size": 12288,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".editorconfig": {
+      "type": "-",
+      "size": 220,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".env": {
+      "type": "-",
+      "size": 879,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".gitattributes": {
+      "type": "-",
+      "size": 66,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".gitignore": {
+      "type": "-",
+      "size": 30,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".htaccess": {
+      "type": "-",
+      "size": 42,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".styleci.yml": {
+      "type": "-",
+      "size": 181,
+      "lmtime": 0,
+      "modified": false
+    },
+    "README.md": {
+      "type": "-",
+      "size": 3780,
+      "lmtime": 0,
+      "modified": false
+    },
+    "app": {},
+    "artisan": {
+      "type": "-",
+      "size": 1686,
+      "lmtime": 0,
+      "modified": false
+    },
+    "bootstrap": {},
+    "composer.json": {
+      "type": "-",
+      "size": 1788,
+      "lmtime": 0,
+      "modified": false
+    },
+    "composer.lock": {
+      "type": "-",
+      "size": 285385,
+      "lmtime": 0,
+      "modified": false
+    },
+    "config": {},
+    "database": {},
+    "index.html": {
+      "type": "-",
+      "size": 10,
+      "lmtime": 0,
+      "modified": false
+    },
+    "node_modules": {},
+    "package-lock.json": {
+      "type": "-",
+      "size": 1236238,
+      "lmtime": 0,
+      "modified": false
+    },
+    "package.json": {
+      "type": "-",
+      "size": 750,
+      "lmtime": 0,
+      "modified": false
+    },
+    "phpunit.xml": {
+      "type": "-",
+      "size": 1202,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public": {},
+    "resources": {},
+    "routes": {},
+    "server.php": {
+      "type": "-",
+      "size": 563,
+      "lmtime": 0,
+      "modified": false
+    },
+    "storage": {},
+    "tailwind.config.js": {
+      "type": "-",
+      "size": 807,
+      "lmtime": 0,
+      "modified": false
+    },
+    "tests": {},
+    "vendor": {},
+    "webpack.mix.js": {
+      "type": "-",
+      "size": 627,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}

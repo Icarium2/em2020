@@ -1,0 +1,28 @@
+{
+    "host": "ftp.danielborgstrom.com",
+    "username": "danielborgstrom.com",
+    "password": "FridaDaniel2020",
+    "remotePath": "/",
+    "protocol": "ftp",
+    "port":21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        "/node_modules",
+        "/vendor",
+"/public/hot",
+".env.example",
+".env.backup",
+".phpunit.result.cache",
+"docker-compose.override.yml",
+"Homestead.json",
+"Homestead.yaml",
+"npm-debug.log",
+"yarn-error.log",
+"/storage"
+    ]
+}
